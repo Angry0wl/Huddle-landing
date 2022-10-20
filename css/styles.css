@@ -1,0 +1,85 @@
+p {
+  color:white;
+  position: absolute;
+  left:800px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color:white;
+  position: absolute;
+  left:800px;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* Classes*/
+
+.background {
+  width: 1400px;
+  margin: 0;
+}
+
+.mockups {
+  position:absolute;
+  left:40px;
+}
+.huddle-logo {
+  position: absolute;
+  left:70px;
+}
+.back {
+  position: absolute;
+  left:auto;
+  right:auto;
+  top:100px;
+  height: 700px;
+  width: 1300px;
+  background-color: hsl(257, 40%, 49%);
+}
+
+.instagram {
+  position: absolute;
+  right:100px;
+  bottom: 50px;
+}
+
+.twitter {
+  position: absolute;
+  right:150px;
+  bottom: 50px;
+}
+.facebook {
+  position: absolute;
+  right:200px;
+  bottom: 50px;
+}
+.btn {
+  position: absolute;
+  bottom:200px;
+  right:400px;
+  background: #fafafa;
+  background-image: -webkit-linear-gradient(top, #fafafa, #e6edf2);
+  background-image: -moz-linear-gradient(top, #fafafa, #e6edf2);
+  background-image: -ms-linear-gradient(top, #fafafa, #e6edf2);
+  background-image: -o-linear-gradient(top, #fafafa, #e6edf2);
+  background-image: linear-gradient(to bottom, #fafafa, #e6edf2);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Open Sans', sans-serif;
+  color: #9c3e9c;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ca71ed;
+  background-image: -webkit-linear-gradient(top, #ca71ed, #de84e8);
+  background-image: -moz-linear-gradient(top, #ca71ed, #de84e8);
+  background-image: -ms-linear-gradient(top, #ca71ed, #de84e8);
+  background-image: -o-linear-gradient(top, #ca71ed, #de84e8);
+  background-image: linear-gradient(to bottom, #ca71ed, #de84e8);
+  text-decoration: none;
+}
